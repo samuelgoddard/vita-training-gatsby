@@ -3,5 +3,5 @@
         mx-auto
         px-8;
 
-    max-width: theme('screens.xl');
+    max-width: 1200px;
 }

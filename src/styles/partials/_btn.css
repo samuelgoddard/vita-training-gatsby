@@ -1,0 +1,7 @@
+.btn {
+  @apply bg-primary transition rounded-sm inline-block text-white font-bold px-5 py-3;
+
+  &:hover, &:focus {
+    @apply bg-primary-dark;
+  }
+}
